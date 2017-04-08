@@ -1,0 +1,13 @@
+#toc {
+	display: block;
+	position: fixed;
+	top: 8.5%;
+	right: 2%;
+	max-width: 20%;
+	max-height: 80%;
+	overflow: auto;
+}
+
+#ca-content-width span select {
+	margin: 0.75rem 0.25rem;
+}
