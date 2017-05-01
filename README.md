@@ -8,7 +8,7 @@ Shared CSS/JavaScript for all skins.
 
 ### Screenshots
 
-- [http://imgur.com/a/ABX8y](http://imgur.com/a/ABX8y)
+![Screenshot](http://i.imgur.com/4cyxmbH.png "Screenshot on Wikipedia")
 
 ### Features:
 - It allows you to resize your main content section.
